@@ -1,5 +1,5 @@
-/*
-RecentFileMenu.java - menu to store and display recently used files.
+package com.github.iookill.logfilter;/*
+com.github.iookill.logfilter.RecentFileMenu.java - menu to store and display recently used files.
  
  Copyright  (C) 2005 Hugues Johnson
  
@@ -39,7 +39,7 @@ public abstract class RecentFileMenu extends JMenu{
 	private final static String defaultText="__R_e_C_e_N_t__:_?"; //colon & question mark are not allowed as a file name in any OS that I'm aware of
 	
 	/**
-	 * Create a new instance of RecentFileMenu.
+	 * Create a new instance of com.github.iookill.logfilter.RecentFileMenu.
 	 * @param name The name of this menu, not displayed but used to store the list of recently used file names.
 	 * @param count The number of recent files to store.
 	 */

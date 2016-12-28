@@ -1,3 +1,4 @@
+package com.github.iookill.logfilter;
 
 public class TagInfo
 {

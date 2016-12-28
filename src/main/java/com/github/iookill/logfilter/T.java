@@ -1,3 +1,5 @@
+package com.github.iookill.logfilter;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 

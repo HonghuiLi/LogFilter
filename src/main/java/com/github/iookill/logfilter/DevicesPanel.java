@@ -1,3 +1,5 @@
+package com.github.iookill.logfilter;
+
 import javax.swing.JPanel;
 
 public class DevicesPanel extends JPanel

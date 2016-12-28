@@ -1,3 +1,5 @@
+package com.github.iookill.logfilter;
+
 import java.awt.Color;
 
 public class LogInfo

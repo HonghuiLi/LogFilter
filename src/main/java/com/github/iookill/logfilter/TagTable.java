@@ -1,3 +1,5 @@
+package com.github.iookill.logfilter;
+
 import java.awt.Component;
 import java.awt.Dimension;
 import java.awt.Rectangle;
@@ -6,7 +8,6 @@ import java.awt.event.MouseEvent;
 
 import javax.swing.JCheckBox;
 import javax.swing.JTable;
-import javax.swing.JViewport;
 import javax.swing.SwingUtilities;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableColumnModel;

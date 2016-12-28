@@ -1,3 +1,5 @@
+package com.github.iookill.logfilter;
+
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.Dimension;
@@ -416,7 +418,7 @@ public class LogTable extends JTable implements FocusListener, ActionListener
             showColumn(iIndex, true);
         }
         showColumn(LogFilterTableModel.COMUMN_BOOKMARK, false);
-//        showColumn(LogFilterTableModel.COMUMN_THREAD, false);
+//        showColumn(com.github.iookill.logfilter.LogFilterTableModel.COMUMN_THREAD, false);
     }
 
     void setFilterFind(String strFind)
